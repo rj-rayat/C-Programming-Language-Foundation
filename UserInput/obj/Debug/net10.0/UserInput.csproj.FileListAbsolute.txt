@@ -1,0 +1,14 @@
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/bin/Debug/net10.0/UserInput
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/bin/Debug/net10.0/UserInput.deps.json
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/bin/Debug/net10.0/UserInput.runtimeconfig.json
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/bin/Debug/net10.0/UserInput.dll
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/bin/Debug/net10.0/UserInput.pdb
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/UserInput.AssemblyInfoInputs.cache
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/UserInput.AssemblyInfo.cs
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/UserInput.csproj.CoreCompileInputs.cache
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/UserInput.dll
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/refint/UserInput.dll
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/UserInput.pdb
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/UserInput.genruntimeconfig.cache
+/media/rayat/Storage/Office/My Courses/C#/Learning/UserInput/obj/Debug/net10.0/ref/UserInput.dll
